@@ -123,8 +123,8 @@ export const MODELS: Record<string, ModelDefinition[]> = {
   // Ijai
   "ijai.vacuum.v19": [
     {
-      speed: speedmodes["gen5"],
-      waterspeed: watermodes["gen1+custom"],
+      speed: speedmodes["gen3"],
+      waterspeed: watermodes["gen1"],
     },
   ],
 };
